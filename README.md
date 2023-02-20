@@ -4,4 +4,5 @@
 https://replit.com/@ImRubi/gradient-descent-python
 
 주황색 함수 - 원시함수
-하늘색 함수 - 
+
+하늘색 함수 - 도함수
